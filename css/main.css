@@ -1,0 +1,58 @@
+/* ID´s */
+#blue_square {
+  background-color: blue;
+}
+
+#black_square {
+  background-color: black;
+}
+
+#green_square {
+  background-color: green;
+}
+
+#red_square {
+  background-color: red;
+}
+
+#purple_square {
+  background-color: purple;
+}
+
+#yellow_square {
+  background-color: yellow;
+}
+
+/* Clases tamaño */
+
+.big-square {
+  border: solid 1px black;
+  height: 280px;
+  position: relative;
+  width: 280px;
+}
+
+.medium-square {
+  border: solid 1px black;
+  height: 140px;
+  left: 70px;
+  position: absolute;
+  width: 140px;
+  top: 70px;
+}
+
+/*margenes */
+  .mt-5 {
+  margin-top: 5%;
+}
+
+  .mt-20 {
+  margin-top: 20;
+}
+
+.small-square {
+  border: solid 1px black;
+  height: 70px;
+  position: absolute;
+  width: 70px;
+}
